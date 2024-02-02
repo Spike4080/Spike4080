@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pyae Sone Paing</h1>
+<h1 align="center">Hello 👋, I'm Pyae Sone Paing</h1>
 <h3 align="center">I'm, a Backend Developer skilled in PHP, Laravel, and currently exploring Firebase. Alongside, I'm actively learning new skills to enhance my expertise. Specializing in responsive website development using JavaScript and Vue.js, I'm eager to contribute to your team.</h3>
 <image src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spike4080&label=Profile%20views&color=0e75b6&style=flat" alt="spike4080" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spike4080" alt="spike4080" /></a> </p>
 
 - 🌱 I’m currently learning Vuejs and Firebase **Vuejs and firebase**
 
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spike4080&show_icons=true&locale=en&layout=compact" alt="spike4080" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spike4080&show_icons=true&locale=en" alt="spike4080" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spike4080&" alt="spike4080" /></p>
